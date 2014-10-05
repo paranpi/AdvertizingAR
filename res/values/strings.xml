@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">갑뽕</string>
+
+    <string name="gabbong_logo_img">갑뽕로고이미지</string>
+
+    <string name="gabbong_logo_txt">갑뽕로고</string>
+    
+    <string name="content_desc_camera_button">Camera Button</string>
+    
+    <string name="button_OK">OK</string>
+    
+    <string name="target_quality_error_title">Low Quality Image</string>
+        
+    <string name="target_quality_error_desc">The image has very little detail, please try another.</string>
+
+</resources>
